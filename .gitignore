@@ -1,0 +1,6 @@
+poppler/
+poppler-*/
+data/rate_books/*.pdf
+__pycache__/
+*.pyc
+.venv/
